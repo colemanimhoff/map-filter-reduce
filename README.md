@@ -18,7 +18,7 @@
   
 - Use case for MAP
   - Take an array of data and transform each index in the same way
-  - Return a new array from the existing arrays
+  - Return a new array from the existing array
   - Difference from forEach?
   - Often 'cleaning up' the data
   - ALWAYS return an array of the SAME length
