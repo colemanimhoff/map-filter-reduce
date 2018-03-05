@@ -7,6 +7,7 @@
   - filter
   - reduce
 * Write map, filter, and reduce functions
+
 * Identify the parts of a native array method
 * Passing a named function to native method
 * Chaining or using multiple at once
@@ -35,3 +36,8 @@
   - Swiss Army knife of NAM
   - Not necessarily a new array
   - Could be array, object, number, string, etc.
+
+- REDUCE
+  - Concept of accumulator
+    * Starting point & ending point (return value) of our reduce function
+    * First parameter/argumen to the function
