@@ -41,3 +41,7 @@
   - Concept of accumulator
     * Starting point & ending point (return value) of our reduce function
     * First parameter/argumen to the function
+
+## Solutions
+
+- Switch to the 'breakout' branch to see solutions
