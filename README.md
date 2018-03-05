@@ -10,3 +10,7 @@
 * Identify the parts of a native array method
 
 ## Notes
+
+## Solutions
+
+- Switch to the 'breakout' branch to see solutions
